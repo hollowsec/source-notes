@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on HollowSec | Notes</title>
+    <link>http://hollowsec.github.io/tags/</link>
+    <description>Recent content in Tags on HollowSec | Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Apr 2023 16:21:50 -0300</lastBuildDate><atom:link href="http://hollowsec.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>analysis</title>
+      <link>http://hollowsec.github.io/tags/analysis/</link>
+      <pubDate>Mon, 17 Apr 2023 16:21:50 -0300</pubDate>
+      
+      <guid>http://hollowsec.github.io/tags/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>malware</title>
+      <link>http://hollowsec.github.io/tags/malware/</link>
+      <pubDate>Mon, 17 Apr 2023 16:21:50 -0300</pubDate>
+      
+      <guid>http://hollowsec.github.io/tags/malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>office document</title>
+      <link>http://hollowsec.github.io/tags/office-document/</link>
+      <pubDate>Mon, 17 Apr 2023 16:21:50 -0300</pubDate>
+      
+      <guid>http://hollowsec.github.io/tags/office-document/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VBA Macro</title>
+      <link>http://hollowsec.github.io/tags/vba-macro/</link>
+      <pubDate>Mon, 17 Apr 2023 16:21:50 -0300</pubDate>
+      
+      <guid>http://hollowsec.github.io/tags/vba-macro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lab</title>
+      <link>http://hollowsec.github.io/tags/lab/</link>
+      <pubDate>Tue, 27 Sep 2022 04:43:17 -0300</pubDate>
+      
+      <guid>http://hollowsec.github.io/tags/lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>http://hollowsec.github.io/tags/network/</link>
+      <pubDate>Tue, 27 Sep 2022 04:43:17 -0300</pubDate>
+      
+      <guid>http://hollowsec.github.io/tags/network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

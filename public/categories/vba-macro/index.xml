@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VBA Macro on HollowSec | Notes</title>
+    <link>http://hollowsec.github.io/categories/vba-macro/</link>
+    <description>Recent content in VBA Macro on HollowSec | Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Apr 2023 16:21:50 -0300</lastBuildDate><atom:link href="http://hollowsec.github.io/categories/vba-macro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malicious Document Analysis</title>
+      <link>http://hollowsec.github.io/posts/malicious-document-analysis/malicious_document_analysis/</link>
+      <pubDate>Mon, 17 Apr 2023 16:21:50 -0300</pubDate>
+      
+      <guid>http://hollowsec.github.io/posts/malicious-document-analysis/malicious_document_analysis/</guid>
+      <description>We are going to be using VirusTotal and command line tools like Olevba
+sudo -H pip install -U oletools MD5 Hash of the file we gonna analyze
+a3b613d128aace09241504e8acc678c2 First of all we can throw the file on Virus Total to see what we can get
+On Virus Total we can see the behavior of the malware before we execute, and we see all the security vendors that are flagging the file as malicious.</description>
+    </item>
+    
+  </channel>
+</rss>

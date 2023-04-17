@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on HollowSec | Notes</title>
+    <link>http://hollowsec.github.io/categories/</link>
+    <description>Recent content in Categories on HollowSec | Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Apr 2023 16:21:50 -0300</lastBuildDate><atom:link href="http://hollowsec.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>analysis</title>
+      <link>http://hollowsec.github.io/categories/analysis/</link>
+      <pubDate>Mon, 17 Apr 2023 16:21:50 -0300</pubDate>
+      
+      <guid>http://hollowsec.github.io/categories/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>malware</title>
+      <link>http://hollowsec.github.io/categories/malware/</link>
+      <pubDate>Mon, 17 Apr 2023 16:21:50 -0300</pubDate>
+      
+      <guid>http://hollowsec.github.io/categories/malware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VBA Macro</title>
+      <link>http://hollowsec.github.io/categories/vba-macro/</link>
+      <pubDate>Mon, 17 Apr 2023 16:21:50 -0300</pubDate>
+      
+      <guid>http://hollowsec.github.io/categories/vba-macro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lab</title>
+      <link>http://hollowsec.github.io/categories/lab/</link>
+      <pubDate>Tue, 27 Sep 2022 04:43:17 -0300</pubDate>
+      
+      <guid>http://hollowsec.github.io/categories/lab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
