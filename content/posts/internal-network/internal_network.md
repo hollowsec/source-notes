@@ -62,7 +62,7 @@ Perform the following steps to create an Internal Network:
 ![remnux-network.png](/img/remnux-network.png)
 ### Static IP Configuration
 
-There is no `DHCP` server in the Internal Network, we have to manually define a static IP adress for the REMnux host. For this we gonna use <b>netplan</b> utility. <b>Netplan</b> utility uses a YAML config file to control the host's adapter settings. 
+There is no DHCP server in the Internal Network, we have to manually define a static IP adress for the REMnux host. For this we gonna use <b>netplan</b> utility. <b>Netplan</b> utility uses a YAML config file to control the host's adapter settings. 
 
 Open the netplan config file in vim with sudo:
 ```bash
