@@ -7,7 +7,7 @@ author: "HollowSec"
 authorLink: "https://twitter.com/hollowsec_"
 authorEmail: ""
 description: ""
-keywords: "malware, office document, VBA Macro, analysis"
+keywords: "malware,office document, VBA Macro, analysis"
 license: ""
 comment: false
 weight: 0
@@ -157,4 +157,4 @@ It's trying to download a .exe file using the command 'New-Object System.Net.Web
 
 
 
-That's All Folks
+# That's All Folks
