@@ -72,6 +72,7 @@ Also, we can see more details about the file
 
 On the Relations tab, we can see the contacted IP Addresses
 ![virustotal3.png](/img/virustotal3.png)
+
 This means, when we execute the file, he tries to connect these IP Addresses.
 
 
@@ -81,6 +82,7 @@ First of all we gonna start using olemeta to see the metadata of the file
 olemeta blog.doc
 ```
 ![olemeta.png](/img/olemeta.png)
+
 On the template field we can see the value 'Normal.dotm'. 'm' meaning macro
 
 Next we gonna use oleid
@@ -90,6 +92,7 @@ oleid blog.doc
 ```
 
 ![oleid.png](/img/oleid.png)
+
 oleid tells us that the file has VBA Macros and is suspicious with risk High. On Description tell us to use olevba to analyse
 
 ```
@@ -97,13 +100,17 @@ olevba blog.doc
 ```
 
 ![olevba.png](/img/olevba.png)
+
 The output give us indicators that are in the VBA macros and highlight the suspicious keywords for us
+
 IOC = Indicators of compromise.
 
-Searching for these IP's we can found:
-!![IP.png](/img/IP.png)
+Searching for these IP's:
+
+![IP.png](/img/IP.png)
 
 script trying to ping the IP 1.1.2.2
+
 Now we can try decode all the malicious VBA Macro script
 
 ```bash
@@ -122,7 +129,9 @@ After decoding we can see much more information
 
 
 Looking at the code we can see a part of a url
+
 ![url.png](/img/url.png)
+
 If we search for 'JASHDUIQWHDKJQAD' in the code we find:
 
 ![string.png](/img/string.png)
@@ -140,7 +149,9 @@ After that we have the following code:
 http[:]//91.220.131.44/upd/install.exe
 
 
+
 Now we can do the same for the following piece
+
 ![temp-obf.png](/img/temp-obf.png)
 
 ![temp.png](/img/temp.png)
